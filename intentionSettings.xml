@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
+    <ignoreAction name="Java/Concurrency/Convert to ThreadLocal" />
+  </component>
+</application>
