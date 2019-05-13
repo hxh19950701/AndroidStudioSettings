@@ -1,8 +1,8 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="宋体" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="232323" />
@@ -89,7 +89,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="3a3a3a" />
         <option name="EFFECT_COLOR" value="c4cfd3" />
       </value>
     </option>
@@ -364,11 +364,6 @@
         <option name="FOREGROUND" value="ffff" />
       </value>
     </option>
-    <option name="OC.FUNCTION_DECLARATION">
-      <value>
-        <option name="FOREGROUND" value="ffff" />
-      </value>
-    </option>
     <option name="OC.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -445,6 +440,9 @@
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value />
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
