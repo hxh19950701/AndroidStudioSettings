@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Declaration/Split Declaration and Initialization" />
+    <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
   </component>
 </application>
