@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="1138" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Connect network" />
+      <item value="显示密码" />
       <item value="上一步" />
       <item value="设置向导" />
       <item value="Trackball settings" />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE_TRADITIONAL" value="5" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
