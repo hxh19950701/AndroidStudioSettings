@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
-    <option name="newTranslationDialogX" value="518" />
-    <option name="newTranslationDialogY" value="360" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="1152" />
+    <option name="newTranslationDialogY" value="565" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="进入" />
+      <item value="绑定手机" />
+      <item value="选择" />
+      <item value="选择语言" />
       <item value="系统桌面" />
       <item value="系统" />
       <item value="xt" />
@@ -18,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="CHINESE_TRADITIONAL" value="8" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -26,6 +31,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653018342307" />
+    <option name="lastTrimTime" value="1654586552776" />
   </component>
 </application>
