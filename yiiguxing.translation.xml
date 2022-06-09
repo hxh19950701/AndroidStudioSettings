@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="战舰" />
       <item value="开启元宇宙的一把钥匙，将元宇宙带入我们的生活中" />
       <item value="欢迎来到" />
       <item value="欢迎，请选择语言" />
