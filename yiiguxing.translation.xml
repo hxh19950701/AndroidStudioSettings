@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="无法读取设备信息" />
+      <item value="无法读取se" />
+      <item value="无法读取de" />
+      <item value="无法读取的心" />
+      <item value="无法读取" />
+      <item value="我" />
+      <item value="设备xin" />
       <item value="战舰" />
       <item value="开启元宇宙的一把钥匙，将元宇宙带入我们的生活中" />
       <item value="欢迎来到" />
@@ -29,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="6" />
         <entry key="CHINESE_TRADITIONAL" value="11" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
