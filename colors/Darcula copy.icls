@@ -7,7 +7,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="SimSun" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="SimSun" />
@@ -261,6 +261,9 @@
       <value>
         <option name="FOREGROUND" value="bd63c5" />
       </value>
+    </option>
+    <option name="KOTLIN_INSTANCE_PROPERTY_CUSTOM_PROPERTY_DECLARATION">
+      <value />
     </option>
     <option name="KOTLIN_LINE_COMMENT">
       <value>
