@@ -3,11 +3,11 @@
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="SimSun" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="SimSun" />
@@ -236,6 +236,11 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
+    <option name="KOTLIN_ENUM_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="bd63c5" />
+      </value>
+    </option>
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffff" />
@@ -259,7 +264,7 @@
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
       <value>
-        <option name="FOREGROUND" value="bd63c5" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY_CUSTOM_PROPERTY_DECLARATION">
@@ -299,12 +304,20 @@
     <option name="KOTLIN_SEMICOLON">
       <value />
     </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value />
+    </option>
     <option name="KOTLIN_STRING">
       <value>
         <option name="FOREGROUND" value="d69d85" />
       </value>
     </option>
     <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="KOTLIN_TYPE_PARAMETER">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
