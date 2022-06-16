@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="连接网络" />
       <item value="无法读取设备信息" />
       <item value="无法读取se" />
       <item value="无法读取de" />
@@ -38,7 +39,7 @@
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="11" />
+        <entry key="CHINESE_TRADITIONAL" value="12" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -46,6 +47,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654586552776" />
+    <option name="lastTrimTime" value="1655351634867" />
   </component>
 </application>
