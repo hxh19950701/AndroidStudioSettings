@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="568" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="扫码下载 App" />
+      <item value="请使用 MX Box 钱包App 扫码来绑定" />
+      <item value="已成功连接互联网" />
+      <item value="此网络无法访问互联网" />
+      <item value="网线已接入，正在检查网络联通性" />
+      <item value="网络已连接，正在检查网络联通性" />
+      <item value="网络识别失败" />
+      <item value="连接失败" />
+      <item value="网线已接入，正在识别" />
+      <item value="正在连接" />
       <item value="请选择您要连接的无线网络" />
       <item value="连接网络" />
       <item value="无法读取设备信息" />
@@ -40,7 +50,7 @@
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="13" />
+        <entry key="CHINESE_TRADITIONAL" value="14" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
