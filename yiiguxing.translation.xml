@@ -1,10 +1,36 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="综合战力" />
+      <item value="Plunder Coefficient" />
+      <item value="开采权重" />
+      <item value="开采圈子" />
+      <item value="开采" />
+      <item value="开吃啊" />
+      <item value="Dodge rate" />
+      <item value="暴击率" />
+      <item value="暴击女" />
+      <item value="保吉利" />
+      <item value="能量恢复" />
+      <item value="能力" />
+      <item value="速度" />
+      <item value="生命值" />
+      <item value="声明者" />
+      <item value="sheng" />
+      <item value="什么" />
+      <item value="Life" />
+      <item value="防御力：" />
+      <item value="掠夺系数：" />
+      <item value="开采权重：" />
+      <item value="闪避率：" />
+      <item value="暴击率：" />
+      <item value="能量恢复：" />
+      <item value="速度：" />
+      <item value="生命值：" />
       <item value="护盾en" />
       <item value="护盾" />
       <item value="装甲" />
@@ -29,36 +55,12 @@
       <item value="无法读取设备信息" />
       <item value="无法读取se" />
       <item value="无法读取de" />
-      <item value="无法读取的心" />
-      <item value="无法读取" />
-      <item value="我" />
-      <item value="设备xin" />
-      <item value="开启元宇宙的一把钥匙，将元宇宙带入我们的生活中" />
-      <item value="欢迎来到" />
-      <item value="欢迎，请选择语言" />
-      <item value="欢迎" />
-      <item value="huan" />
-      <item value="欢迎，请选择" />
-      <item value="进入" />
-      <item value="绑定手机" />
-      <item value="选择" />
-      <item value="选择语言" />
-      <item value="系统桌面" />
-      <item value="系统" />
-      <item value="xt" />
-      <item value="Connect network" />
-      <item value="显示密码" />
-      <item value="上一步" />
-      <item value="设置向导" />
-      <item value="Trackball settings" />
-      <item value="调整画面尺寸" />
-      <item value="Adjust screen size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="15" />
+        <entry key="CHINESE_TRADITIONAL" value="16" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
