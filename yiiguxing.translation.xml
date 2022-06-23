@@ -1,44 +1,66 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="综合战力" />
+      <item value="Plunder Coefficient" />
+      <item value="开采权重" />
+      <item value="开采圈子" />
+      <item value="开采" />
+      <item value="开吃啊" />
+      <item value="Dodge rate" />
+      <item value="暴击率" />
+      <item value="暴击女" />
+      <item value="保吉利" />
+      <item value="能量恢复" />
+      <item value="能力" />
+      <item value="速度" />
+      <item value="生命值" />
+      <item value="声明者" />
+      <item value="sheng" />
+      <item value="什么" />
+      <item value="Life" />
+      <item value="防御力：" />
+      <item value="掠夺系数：" />
+      <item value="开采权重：" />
+      <item value="闪避率：" />
+      <item value="暴击率：" />
+      <item value="能量恢复：" />
+      <item value="速度：" />
+      <item value="生命值：" />
+      <item value="护盾en" />
+      <item value="护盾" />
+      <item value="装甲" />
+      <item value="武器" />
+      <item value="引擎" />
+      <item value="加速器" />
+      <item value="指挥官" />
+      <item value="攻击力" />
+      <item value="战舰" />
+      <item value="扫码下载 App" />
+      <item value="请使用 MX Box 钱包App 扫码来绑定" />
+      <item value="已成功连接互联网" />
+      <item value="此网络无法访问互联网" />
+      <item value="网线已接入，正在检查网络联通性" />
+      <item value="网络已连接，正在检查网络联通性" />
+      <item value="网络识别失败" />
+      <item value="连接失败" />
+      <item value="网线已接入，正在识别" />
+      <item value="正在连接" />
+      <item value="请选择您要连接的无线网络" />
+      <item value="连接网络" />
       <item value="无法读取设备信息" />
       <item value="无法读取se" />
       <item value="无法读取de" />
-      <item value="无法读取的心" />
-      <item value="无法读取" />
-      <item value="我" />
-      <item value="设备xin" />
-      <item value="战舰" />
-      <item value="开启元宇宙的一把钥匙，将元宇宙带入我们的生活中" />
-      <item value="欢迎来到" />
-      <item value="欢迎，请选择语言" />
-      <item value="欢迎" />
-      <item value="huan" />
-      <item value="欢迎，请选择" />
-      <item value="进入" />
-      <item value="绑定手机" />
-      <item value="选择" />
-      <item value="选择语言" />
-      <item value="系统桌面" />
-      <item value="系统" />
-      <item value="xt" />
-      <item value="Connect network" />
-      <item value="显示密码" />
-      <item value="上一步" />
-      <item value="设置向导" />
-      <item value="Trackball settings" />
-      <item value="调整画面尺寸" />
-      <item value="Adjust screen size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="11" />
+        <entry key="CHINESE_TRADITIONAL" value="16" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -46,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654586552776" />
+    <option name="lastTrimTime" value="1655964897261" />
   </component>
 </application>
