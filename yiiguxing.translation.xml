@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="护盾en" />
+      <item value="护盾" />
+      <item value="装甲" />
+      <item value="武器" />
+      <item value="引擎" />
+      <item value="加速器" />
+      <item value="指挥官" />
+      <item value="攻击力" />
+      <item value="战舰" />
       <item value="扫码下载 App" />
       <item value="请使用 MX Box 钱包App 扫码来绑定" />
       <item value="已成功连接互联网" />
@@ -24,7 +33,6 @@
       <item value="无法读取" />
       <item value="我" />
       <item value="设备xin" />
-      <item value="战舰" />
       <item value="开启元宇宙的一把钥匙，将元宇宙带入我们的生活中" />
       <item value="欢迎来到" />
       <item value="欢迎，请选择语言" />
@@ -50,7 +58,7 @@
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="14" />
+        <entry key="CHINESE_TRADITIONAL" value="15" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -58,6 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655351634867" />
+    <option name="lastTrimTime" value="1655964897261" />
   </component>
 </application>
