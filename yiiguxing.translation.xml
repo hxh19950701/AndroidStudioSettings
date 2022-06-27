@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="1129" />
     <option name="newTranslationDialogY" value="529" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="战舰指挥官" />
+      <item value="战舰zhih" />
+      <item value="战舰之火罐" />
+      <item value="战舰智慧挂" />
+      <item value="战舰和i" />
+      <item value="战舰" />
       <item value="综合战力" />
       <item value="Plunder Coefficient" />
       <item value="开采权重" />
@@ -39,7 +46,6 @@
       <item value="加速器" />
       <item value="指挥官" />
       <item value="攻击力" />
-      <item value="战舰" />
       <item value="扫码下载 App" />
       <item value="请使用 MX Box 钱包App 扫码来绑定" />
       <item value="已成功连接互联网" />
@@ -50,17 +56,12 @@
       <item value="连接失败" />
       <item value="网线已接入，正在识别" />
       <item value="正在连接" />
-      <item value="请选择您要连接的无线网络" />
-      <item value="连接网络" />
-      <item value="无法读取设备信息" />
-      <item value="无法读取se" />
-      <item value="无法读取de" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="17" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
