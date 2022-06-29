@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="560" />
-    <option name="newTranslationDialogX" value="1129" />
-    <option name="newTranslationDialogY" value="529" />
+    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogX" value="1315" />
+    <option name="newTranslationDialogY" value="407" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="你确定要卸下指挥官吗" />
+      <item value="你确定要卸下指挥官" />
+      <item value="你确定要卸下" />
+      <item value="你确定要" />
+      <item value="你确定要xia" />
+      <item value="你确定要xiexi" />
+      <item value="你确定" />
+      <item value="你确定压迫" />
       <item value="战舰指挥官" />
       <item value="战舰zhih" />
       <item value="战舰之火罐" />
@@ -48,20 +56,12 @@
       <item value="攻击力" />
       <item value="扫码下载 App" />
       <item value="请使用 MX Box 钱包App 扫码来绑定" />
-      <item value="已成功连接互联网" />
-      <item value="此网络无法访问互联网" />
-      <item value="网线已接入，正在检查网络联通性" />
-      <item value="网络已连接，正在检查网络联通性" />
-      <item value="网络识别失败" />
-      <item value="连接失败" />
-      <item value="网线已接入，正在识别" />
-      <item value="正在连接" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
         <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="17" />
+        <entry key="CHINESE_TRADITIONAL" value="18" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655964897261" />
+    <option name="lastTrimTime" value="1656481104200" />
   </component>
 </application>
