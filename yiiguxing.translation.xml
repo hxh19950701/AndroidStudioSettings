@@ -1,10 +1,27 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="1315" />
     <option name="newTranslationDialogY" value="407" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="替换" />
+      <item value="卸下" />
+      <item value="毅力" />
+      <item value="感知" />
+      <item value="智力" />
+      <item value="效率" />
+      <item value="挖矿权重" />
+      <item value="挖矿圈子" />
+      <item value="挖矿" />
+      <item value="刮蹭" />
+      <item value="挂蹭" />
+      <item value="蹭" />
+      <item value="承" />
+      <item value="沉" />
+      <item value="层" />
+      <item value="成" />
       <item value="你确定要卸下指挥官吗" />
       <item value="你确定要卸下指挥官" />
       <item value="你确定要卸下" />
@@ -39,28 +56,12 @@
       <item value="Life" />
       <item value="防御力：" />
       <item value="掠夺系数：" />
-      <item value="开采权重：" />
-      <item value="闪避率：" />
-      <item value="暴击率：" />
-      <item value="能量恢复：" />
-      <item value="速度：" />
-      <item value="生命值：" />
-      <item value="护盾en" />
-      <item value="护盾" />
-      <item value="装甲" />
-      <item value="武器" />
-      <item value="引擎" />
-      <item value="加速器" />
-      <item value="指挥官" />
-      <item value="攻击力" />
-      <item value="扫码下载 App" />
-      <item value="请使用 MX Box 钱包App 扫码来绑定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="18" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE_TRADITIONAL" value="19" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
