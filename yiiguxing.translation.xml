@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="1315" />
     <option name="newTranslationDialogY" value="407" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Class representing the legend of the chart. The legend will contain one entry per color and DataSet. Multiple colors in one DataSet are grouped together. The legend object is NOT available before setting data to the chart." />
       <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
       <item value="替换" />
       <item value="卸下" />
@@ -55,11 +56,10 @@
       <item value="sheng" />
       <item value="什么" />
       <item value="Life" />
-      <item value="防御力：" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="8" />
         <entry key="CHINESE_TRADITIONAL" value="19" />
         <entry key="KOREAN" value="2" />
