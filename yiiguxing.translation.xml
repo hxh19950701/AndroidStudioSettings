@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
     <option name="newTranslationDialogWidth" value="540" />
-    <option name="newTranslationDialogX" value="994" />
-    <option name="newTranslationDialogY" value="407" />
+    <option name="newTranslationDialogX" value="1039" />
+    <option name="newTranslationDialogY" value="490" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Check for update " />
       <item value="Check for update" />
       <item value="属性" />
       <item value="Class representing the legend of the chart. The legend will contain one entry per color and DataSet. Multiple colors in one DataSet are grouped together. The legend object is NOT available before setting data to the chart." />
@@ -55,7 +56,6 @@
       <item value="速度" />
       <item value="生命值" />
       <item value="声明者" />
-      <item value="sheng" />
     </histories>
     <option name="languageScores">
       <map>
