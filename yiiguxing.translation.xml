@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="1039" />
     <option name="newTranslationDialogY" value="490" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="关于当前版本" />
+      <item value="时" />
+      <item value="每天" />
+      <item value="自动更新" />
+      <item value="设置" />
       <item value="Check for update " />
       <item value="Check for update" />
       <item value="属性" />
@@ -51,17 +56,12 @@
       <item value="暴击率" />
       <item value="暴击女" />
       <item value="保吉利" />
-      <item value="能量恢复" />
-      <item value="能力" />
-      <item value="速度" />
-      <item value="生命值" />
-      <item value="声明者" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="8" />
-        <entry key="CHINESE_TRADITIONAL" value="21" />
+        <entry key="CHINESE_TRADITIONAL" value="22" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
