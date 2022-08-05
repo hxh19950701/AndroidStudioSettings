@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="530" />
-    <option name="newTranslationDialogX" value="1039" />
-    <option name="newTranslationDialogY" value="490" />
+    <option name="newTranslationDialogWidth" value="528" />
+    <option name="newTranslationDialogX" value="978" />
+    <option name="newTranslationDialogY" value="582" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="打开设置" />
+      <item value="刷新状态" />
+      <item value="由于您在设备使用过程中有违反《MX BOX 使用协议》的行为，该设备已经被锁定，请您规范您的使用行为。\n若您有任何问题，请联系客服400-820-8820。" />
+      <item value="设备已经锁定" />
       <item value="消耗数量" />
       <item value="领取时间" />
       <item value="开采数量" />
@@ -52,16 +56,12 @@
       <item value="蹭" />
       <item value="承" />
       <item value="沉" />
-      <item value="层" />
-      <item value="成" />
-      <item value="你确定要卸下指挥官吗" />
-      <item value="你确定要卸下指挥官" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="9" />
-        <entry key="CHINESE_TRADITIONAL" value="25" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE_TRADITIONAL" value="27" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
