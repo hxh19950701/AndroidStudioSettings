@@ -1,66 +1,67 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
-    <option name="newTranslationDialogX" value="1129" />
-    <option name="newTranslationDialogY" value="529" />
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="532" />
+    <option name="newTranslationDialogX" value="1039" />
+    <option name="newTranslationDialogY" value="490" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="系统" />
+      <item value="透明" />
+      <item value="SETUP WIZARD" />
+      <item value="检查更新失败，请重试。" />
+      <item value="关于当前版本" />
+      <item value="时" />
+      <item value="每天" />
+      <item value="自动更新" />
+      <item value="设置" />
+      <item value="Check for update " />
+      <item value="Check for update" />
+      <item value="属性" />
+      <item value="Class representing the legend of the chart. The legend will contain one entry per color and DataSet. Multiple colors in one DataSet are grouped together. The legend object is NOT available before setting data to the chart." />
+      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
+      <item value="替换" />
+      <item value="卸下" />
+      <item value="毅力" />
+      <item value="感知" />
+      <item value="智力" />
+      <item value="效率" />
+      <item value="挖矿权重" />
+      <item value="挖矿圈子" />
+      <item value="挖矿" />
+      <item value="刮蹭" />
+      <item value="挂蹭" />
+      <item value="蹭" />
+      <item value="承" />
+      <item value="沉" />
+      <item value="层" />
+      <item value="成" />
+      <item value="你确定要卸下指挥官吗" />
+      <item value="你确定要卸下指挥官" />
+      <item value="你确定要卸下" />
+      <item value="你确定要" />
+      <item value="你确定要xia" />
+      <item value="你确定要xiexi" />
+      <item value="你确定" />
+      <item value="你确定压迫" />
+      <item value="战舰指挥官" />
+      <item value="战舰zhih" />
+      <item value="战舰之火罐" />
+      <item value="战舰智慧挂" />
+      <item value="战舰和i" />
+      <item value="战舰" />
       <item value="综合战力" />
       <item value="Plunder Coefficient" />
       <item value="开采权重" />
       <item value="开采圈子" />
       <item value="开采" />
       <item value="开吃啊" />
-      <item value="Dodge rate" />
-      <item value="暴击率" />
-      <item value="暴击女" />
-      <item value="保吉利" />
-      <item value="能量恢复" />
-      <item value="能力" />
-      <item value="速度" />
-      <item value="生命值" />
-      <item value="声明者" />
-      <item value="sheng" />
-      <item value="什么" />
-      <item value="Life" />
-      <item value="防御力：" />
-      <item value="掠夺系数：" />
-      <item value="开采权重：" />
-      <item value="闪避率：" />
-      <item value="暴击率：" />
-      <item value="能量恢复：" />
-      <item value="速度：" />
-      <item value="生命值：" />
-      <item value="护盾en" />
-      <item value="护盾" />
-      <item value="装甲" />
-      <item value="武器" />
-      <item value="引擎" />
-      <item value="加速器" />
-      <item value="指挥官" />
-      <item value="攻击力" />
-      <item value="战舰" />
-      <item value="扫码下载 App" />
-      <item value="请使用 MX Box 钱包App 扫码来绑定" />
-      <item value="已成功连接互联网" />
-      <item value="此网络无法访问互联网" />
-      <item value="网线已接入，正在检查网络联通性" />
-      <item value="网络已连接，正在检查网络联通性" />
-      <item value="网络识别失败" />
-      <item value="连接失败" />
-      <item value="网线已接入，正在识别" />
-      <item value="正在连接" />
-      <item value="请选择您要连接的无线网络" />
-      <item value="连接网络" />
-      <item value="无法读取设备信息" />
-      <item value="无法读取se" />
-      <item value="无法读取de" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="6" />
-        <entry key="CHINESE_TRADITIONAL" value="16" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE_TRADITIONAL" value="24" />
         <entry key="KOREAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="SPANISH" value="2" />
@@ -68,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655964897261" />
+    <option name="lastTrimTime" value="1659493333270" />
   </component>
 </application>
