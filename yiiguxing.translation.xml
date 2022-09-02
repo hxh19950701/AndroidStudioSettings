@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="684" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="隐私政策" />
       <item value="用户协议" />
+      <item value="隐私政策" />
       <item value="您正在使用的是最新版本。" />
       <item value="更新包" />
       <item value="打开设置" />
