@@ -6,6 +6,23 @@
     <option name="newTranslationDialogY" value="384" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="提现" />
+      <item value="1.提现将在3个工作日审核到账，节假日不处理审批\n 2.每天最多提现3次，不收取手续费，每笔最少提现0.1元" />
+      <item value="提现方式" />
+      <item value="个世界金币提现，还差" />
+      <item value="个世界金币" />
+      <item value="个" />
+      <item value="需销毁" />
+      <item value="提现需销毁" />
+      <item value="提现金额" />
+      <item value="钱包余额" />
+      <item value="记录" />
+      <item value="我的钱包" />
+      <item value="更换头像" />
+      <item value="个人头像" />
+      <item value="取消" />
+      <item value="同意" />
+      <item value="蜂群联盟" />
       <item value="你的账号基本信息（昵称、头像、地区）" />
       <item value="是否授权" />
       <item value="当前登录账号绑定蜂群联盟" />
@@ -16,7 +33,6 @@
       <item value="剩余" />
       <item value="点击神兽喂肉" />
       <item value="买肉" />
-      <item value="记录" />
       <item value="可瓜分" />
       <item value="我本期已喂" />
       <item value="最小" />
@@ -36,26 +52,10 @@
       <item value="奖品详情" />
       <item value="最近中奖" />
       <item value="取出奖券" />
-      <item value="个世界金币" />
       <item value="预计1万张奖券每天中" />
       <item value="预计每天能中" />
       <item value="张" />
       <item value="我参与抽奖的高级奖券" />
-      <item value="正在开奖中" />
-      <item value="下期即将开始" />
-      <item value="本期中奖幸运儿" />
-      <item value="个" />
-      <item value="恭喜中奖" />
-      <item value="后开奖" />
-      <item value="奖品价值" />
-      <item value="苹果iPhone13手机抽奖" />
-      <item value="共45.3万人参与抽奖、31.3亿张奖券" />
-      <item value="世界金币未发布数量" />
-      <item value="规则" />
-      <item value="张可用" />
-      <item value="兑现" />
-      <item value="我抽中的世界金币" />
-      <item value="领取" />
     </histories>
     <option name="languageScores">
       <map>
