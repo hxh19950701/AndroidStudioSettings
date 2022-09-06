@@ -6,10 +6,16 @@
     <option name="newTranslationDialogY" value="384" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="发布求购" />
+      <item value="系统将持续为你买入，如果3天后订单未完成，该订单的剩余预付款将退还" />
+      <item value="世界金币剩余" />
+      <item value="（单位:万）" />
+      <item value="求购数量" />
+      <item value="买入单价" />
+      <item value="求购单价(世界金币)" />
       <item value="预付世界金币" />
       <item value="求购" />
       <item value="请选择求购的物品" />
-      <item value="发布求购" />
       <item value="返回" />
       <item value="到期需还金币" />
       <item value="已缴保证金" />
@@ -50,12 +56,6 @@
       <item value="提现需销毁" />
       <item value="提现金额" />
       <item value="钱包余额" />
-      <item value="记录" />
-      <item value="我的钱包" />
-      <item value="更换头像" />
-      <item value="个人头像" />
-      <item value="取消" />
-      <item value="同意" />
     </histories>
     <option name="languageScores">
       <map>
