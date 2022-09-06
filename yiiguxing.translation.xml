@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="520" />
-    <option name="newTranslationDialogX" value="487" />
-    <option name="newTranslationDialogY" value="649" />
+    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogX" value="1174" />
+    <option name="newTranslationDialogY" value="384" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="用户协议" />
-      <item value="隐私政策" />
-      <item value="您正在使用的是最新版本。" />
-      <item value="更新包" />
-      <item value="打开设置" />
-      <item value="刷新状态" />
-      <item value="由于您在设备使用过程中有违反《MX BOX 使用协议》的行为，该设备已经被锁定，请您规范您的使用行为。\n若您有任何问题，请联系客服400-820-8820。" />
-      <item value="设备已经锁定" />
-      <item value="消耗数量" />
-      <item value="领取时间" />
-      <item value="开采数量" />
-      <item value="我的权重" />
-      <item value="全网总权重" />
-      <item value="开采时间" />
-      <item value="选择指挥官" />
-      <item value="用户信息" />
-      <item value="小时后可全额领取" />
-      <item value="当前领取消耗" />
-      <item value="剩余可掠夺资产" />
-      <item value="战力" />
-      <item value="站立" />
-      <item value="绑定账号" />
-      <item value="绑定zhan" />
-      <item value="开采" />
-      <item value="待领取" />
-      <item value="输入新昵称" />
-      <item value="系统" />
-      <item value="透明" />
-      <item value="SETUP WIZARD" />
-      <item value="检查更新失败，请重试。" />
-      <item value="关于当前版本" />
-      <item value="时" />
-      <item value="每天" />
-      <item value="自动更新" />
-      <item value="设置" />
-      <item value="Check for update " />
-      <item value="Check for update" />
-      <item value="属性" />
-      <item value="Class representing the legend of the chart. The legend will contain one entry per color and DataSet. Multiple colors in one DataSet are grouped together. The legend object is NOT available before setting data to the chart." />
-      <item value="Encoder flag bit to omit all line terminators (i.e., the output will be on one long line)." />
-      <item value="替换" />
-      <item value="卸下" />
-      <item value="毅力" />
-      <item value="感知" />
-      <item value="智力" />
-      <item value="效率" />
-      <item value="挖矿权重" />
-      <item value="挖矿圈子" />
-      <item value="挖矿" />
-      <item value="刮蹭" />
+      <item value="你的账号基本信息（昵称、头像、地区）" />
+      <item value="是否授权" />
+      <item value="当前登录账号绑定蜂群联盟" />
+      <item value="订单列表" />
+      <item value="我的参与记录" />
+      <item value="喂feed" />
+      <item value="喂" />
+      <item value="剩余" />
+      <item value="点击神兽喂肉" />
+      <item value="买肉" />
+      <item value="记录" />
+      <item value="可瓜分" />
+      <item value="我本期已喂" />
+      <item value="最小" />
+      <item value="最大" />
+      <item value="当前每斤瓜分" />
+      <item value="最小神兽瓜分总奖金" />
+      <item value="最大神兽瓜分总奖金" />
+      <item value="排行榜" />
+      <item value="往期详情" />
+      <item value="玩法" />
+      <item value="结束后最大最小神兽分金币" />
+      <item value="即将结束" />
+      <item value="喂神兽" />
+      <item value="参与抽奖" />
+      <item value="一键加奖券" />
+      <item value="分享" />
+      <item value="奖品详情" />
+      <item value="最近中奖" />
+      <item value="取出奖券" />
+      <item value="个世界金币" />
+      <item value="预计1万张奖券每天中" />
+      <item value="预计每天能中" />
+      <item value="张" />
+      <item value="我参与抽奖的高级奖券" />
+      <item value="正在开奖中" />
+      <item value="下期即将开始" />
+      <item value="本期中奖幸运儿" />
+      <item value="个" />
+      <item value="恭喜中奖" />
+      <item value="后开奖" />
+      <item value="奖品价值" />
+      <item value="苹果iPhone13手机抽奖" />
+      <item value="共45.3万人参与抽奖、31.3亿张奖券" />
+      <item value="世界金币未发布数量" />
+      <item value="规则" />
+      <item value="张可用" />
+      <item value="兑现" />
+      <item value="我抽中的世界金币" />
+      <item value="领取" />
     </histories>
     <option name="languageScores">
       <map>
