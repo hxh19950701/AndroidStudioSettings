@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.31.113:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="xiaomi MiTV4A" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="d08dd75eb0221b43" />
           </Key>
         </key>
