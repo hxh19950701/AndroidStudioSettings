@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="L7SGKF8PMBGUP7SK" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041216G" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.31.113:5555" />
           </Key>
         </key>
