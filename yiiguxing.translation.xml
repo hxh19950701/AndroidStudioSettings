@@ -1,0 +1,74 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="256" />
+    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogX" value="1174" />
+    <option name="newTranslationDialogY" value="384" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="买入数量" />
+      <item value="求购数量" />
+      <item value="买入单价" />
+      <item value="求购单价(世界金币)" />
+      <item value="预付世界金币" />
+      <item value="求购" />
+      <item value="请选择求购的物品" />
+      <item value="发布求购" />
+      <item value="系统将持续为你买入，如果3天后订单未完成，该订单的剩余预付款将退还" />
+      <item value="世界金币剩余" />
+      <item value="（单位:万）" />
+      <item value="返回" />
+      <item value="到期需还金币" />
+      <item value="已缴保证金" />
+      <item value="单个金币保证金" />
+      <item value="我借入的金币" />
+      <item value="利息" />
+      <item value="第20220123期" />
+      <item value="发布成功" />
+      <item value="查看规则" />
+      <item value="仅显示前50名" />
+      <item value="用户累计获得金币数量排名" />
+      <item value="宝箱钥匙" />
+      <item value="待上线宝箱" />
+      <item value="check the detailsTo-be-launched treasure chest" />
+      <item value="check the details待上线宝箱" />
+      <item value="check the details" />
+      <item value="查看详情" />
+      <item value="后出竞拍结果" />
+      <item value="成功参与竞拍" />
+      <item value="后开始竞拍" />
+      <item value="我要竞拍" />
+      <item value="竞拍借币资格" />
+      <item value="绑定" />
+      <item value="请输入验证码" />
+      <item value="验证码" />
+      <item value="获取验证码" />
+      <item value="请输入手机号" />
+      <item value="手机号" />
+      <item value="绑定手机" />
+      <item value="钱包记录" />
+      <item value="提现" />
+      <item value="1.提现将在3个工作日审核到账，节假日不处理审批\n 2.每天最多提现3次，不收取手续费，每笔最少提现0.1元" />
+      <item value="提现方式" />
+      <item value="个世界金币提现，还差" />
+      <item value="个世界金币" />
+      <item value="个" />
+      <item value="需销毁" />
+      <item value="提现需销毁" />
+      <item value="提现金额" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE_TRADITIONAL" value="29" />
+        <entry key="KOREAN" value="2" />
+        <entry key="JAPANESE" value="2" />
+        <entry key="SPANISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1662090657919" />
+  </component>
+</application>
