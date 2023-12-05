@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="hxh19950701@qq.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account name="hxh19950701" id="a4606233-7f27-48cf-884c-2ed82d5dfa4f">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
