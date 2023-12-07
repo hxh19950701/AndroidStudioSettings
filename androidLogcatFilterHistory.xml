@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine   Webpa" />
+    <option name="mostRecentlyUsed" value="package:mine  console " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine   Webpa" />
         <option value="package:mine  console " />
         <option value="package:mine   " />
-        <option value="package:mine   Webpa" />
         <option value="package:mine  console" />
         <option value="package:mine  Webpa" />
         <option value="package:mine  system.out" />
