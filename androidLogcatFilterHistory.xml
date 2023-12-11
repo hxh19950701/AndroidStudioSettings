@@ -1,9 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LiveApp" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="LiveApp" />
         <option value="Live" />
         <option value="package:mine " />
         <option value="level:error com.caike.ticket.intl " />
@@ -11,6 +10,7 @@
         <option value="package:mine" />
         <option value="level:error " />
         <option value="caike" />
+        <option value="LiveApp" />
       </list>
     </option>
   </component>
