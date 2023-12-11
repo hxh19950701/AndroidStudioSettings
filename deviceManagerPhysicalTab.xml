@@ -145,6 +145,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:10:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="15780M580579103" />
+          </Key>
+        </key>
+        <name value="Xiaomi MiBOX3_PRO" />
+        <target value="Android 5.1" />
+        <api value="androidversion:22:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
