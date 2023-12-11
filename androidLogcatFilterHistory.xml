@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tbs_log" />
     <option name="nonFavorites">
       <list>
+        <option value="tbs_log" />
         <option value="Live" />
         <option value="package:mine " />
         <option value="level:error com.caike.ticket.intl " />
