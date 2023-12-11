@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tbs_log" />
+    <option name="mostRecentlyUsed" value="LiveApplication" />
     <option name="nonFavorites">
       <list>
+        <option value="LiveApplication" />
+        <option value="Webpage" />
+        <option value="LiveApp" />
         <option value="tbs_log" />
         <option value="Live" />
         <option value="package:mine " />
@@ -11,7 +14,6 @@
         <option value="package:mine" />
         <option value="level:error " />
         <option value="caike" />
-        <option value="LiveApp" />
       </list>
     </option>
   </component>
