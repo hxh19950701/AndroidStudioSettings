@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug  Webpage" />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
         <option value="level:debug  LiveApplication" />
         <option value="level:debug  Webpage" />
         <option value="level:debug  " />
@@ -22,7 +23,6 @@
         <option value="level:error webview" />
         <option value="level:error " />
         <option value="LiveApplication" />
-        <option value="Webpage" />
       </list>
     </option>
   </component>
