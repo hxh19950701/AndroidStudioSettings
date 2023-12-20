@@ -1,12 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="adguard" />
+    <option name="mostRecentlyUsed" value="level:debug  Webpage" />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug  LiveApplication" />
+        <option value="level:debug  Webpage" />
+        <option value="level:debug  " />
+        <option value="level:debug  handleDnsRequest" />
+        <option value="level:debug  adaway" />
+        <option value="package:com.hxh19950701.webviewtvlive LiveApplication" />
+        <option value="package:com.hxh19950701.webviewtvlive Webpa" />
+        <option value="level:debug  WebpageAdapterManager" />
         <option value="adguard" />
         <option value="level:debug  Web" />
         <option value="level:debug  system" />
-        <option value="level:debug  " />
         <option value="level:debug  System.out" />
         <option value="package:com.hxh19950701.webviewtvlive" />
         <option value="level:debug  web" />
@@ -16,13 +23,6 @@
         <option value="level:error " />
         <option value="LiveApplication" />
         <option value="Webpage" />
-        <option value="LiveApp" />
-        <option value="tbs_log" />
-        <option value="Live" />
-        <option value="package:mine " />
-        <option value="level:error com.caike.ticket.intl " />
-        <option value="level:error caike" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
