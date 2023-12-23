@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.hxh19950701.webviewtvlive Webpage" />
+    <option name="mostRecentlyUsed" value="Webpage" />
     <option name="nonFavorites">
       <list>
+        <option value="Webpage" />
         <option value="package:com.hxh19950701.webviewtvlive Webpage" />
         <option value="package:com.hxh19950701.webviewtvlive " />
         <option value="package:com.hxh19950701.webviewtvlive system.out" />
@@ -22,7 +23,6 @@
         <option value="level:debug  WebpageAdapterManager" />
         <option value="adguard" />
         <option value="level:debug  Web" />
-        <option value="level:debug  system" />
       </list>
     </option>
   </component>
