@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Webpage" />
+    <option name="mostRecentlyUsed" value="Webpage load" />
     <option name="nonFavorites">
       <list>
+        <option value="Webpage load" />
+        <option value="Webpage requested" />
+        <option value="Webpage Wait" />
         <option value="Webpage" />
         <option value="Webpage wait" />
         <option value="Webpage " />
@@ -20,9 +23,6 @@
         <option value="level:debug  Webpage" />
         <option value="level:debug  " />
         <option value="level:debug  handleDnsRequest" />
-        <option value="level:debug  adaway" />
-        <option value="package:com.hxh19950701.webviewtvlive LiveApplication" />
-        <option value="package:com.hxh19950701.webviewtvlive Webpa" />
       </list>
     </option>
   </component>
