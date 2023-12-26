@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="Webpage " />
     <option name="nonFavorites">
       <list>
+        <option value="onVisibilityChanged" />
         <option value="Webpage " />
         <option value="Webpage load" />
         <option value="Webpage requested" />
@@ -22,7 +23,6 @@
         <option value="level:debug  LiveApplication" />
         <option value="level:debug  Webpage" />
         <option value="level:debug  " />
-        <option value="level:debug  handleDnsRequest" />
       </list>
     </option>
   </component>
