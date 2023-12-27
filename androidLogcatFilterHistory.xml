@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="Webpage " />
     <option name="nonFavorites">
       <list>
-        <option value="onVisibilityChanged" />
         <option value="Webpage " />
+        <option value="onVisibilityChanged" />
         <option value="Webpage load" />
         <option value="Webpage requested" />
         <option value="Webpage Wait" />
