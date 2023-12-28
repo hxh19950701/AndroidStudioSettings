@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine  webpa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  webpa" />
         <option value="package:mine  " />
         <option value="package:mine  system.out" />
         <option value="package:mine  syste" />
-        <option value="package:mine  webpa" />
         <option value="package:mine  PlaylistManager" />
         <option value="Webpage " />
         <option value="onVisibilityChanged" />
