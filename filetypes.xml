@@ -6,12 +6,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="haha" type="PLAIN_TEXT" />
-      <mapping pattern="transmit" type="PLAIN_TEXT" />
       <mapping pattern="ordinary_app.gradle" type="PLAIN_TEXT" />
-      <mapping pattern="fragment_combo_keyxml" type="PLAIN_TEXT" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern="transmit" type="PLAIN_TEXT" />
+      <mapping pattern="fragment_combo_keyxml" type="PLAIN_TEXT" />
       <mapping ext="kl" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
