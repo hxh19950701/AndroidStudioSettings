@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webpage" />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
+        <option value="web" />
         <option value="webpage" />
         <option value="package:mine  webpage" />
         <option value="package:mine  playlist" />
@@ -21,8 +23,6 @@
         <option value="Webpage wait" />
         <option value="Webpage progress" />
         <option value="package:com.hxh19950701.webviewtvlive Webpage" />
-        <option value="package:com.hxh19950701.webviewtvlive " />
-        <option value="package:com.hxh19950701.webviewtvlive system.out" />
       </list>
     </option>
   </component>
