@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="cur pkg: " />
     <option name="nonFavorites">
       <list>
+        <option value="cur pkg: " />
+        <option value="cur pkg" />
+        <option value="recsys" />
         <option value="level:warn " />
         <option value="system.out" />
         <option value="webpag" />
@@ -20,9 +23,6 @@
         <option value="Webpage " />
         <option value="onVisibilityChanged" />
         <option value="Webpage load" />
-        <option value="Webpage requested" />
-        <option value="Webpage Wait" />
-        <option value="Webpage" />
       </list>
     </option>
   </component>
