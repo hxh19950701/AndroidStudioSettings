@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Video size" />
+    <option name="mostRecentlyUsed" value="Video size:" />
     <option name="nonFavorites">
       <list>
+        <option value="Video size:" />
         <option value="Video size" />
         <option value="cur pkg: " />
         <option value="cur pkg" />
@@ -22,7 +23,6 @@
         <option value="package:mine  syste" />
         <option value="package:mine  PlaylistManager" />
         <option value="Webpage " />
-        <option value="onVisibilityChanged" />
       </list>
     </option>
   </component>
