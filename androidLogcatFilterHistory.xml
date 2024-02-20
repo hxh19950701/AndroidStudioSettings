@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" ClearSdcardService" />
+    <option name="mostRecentlyUsed" value=" xiaodianshi" />
     <option name="nonFavorites">
       <list>
+        <option value=" xiaodianshi" />
+        <option value=" yst" />
         <option value=" ClearSdcardService" />
         <option value="package:mine ClearSdcardService" />
         <option value="Video size:" />
@@ -21,8 +23,6 @@
         <option value="package:mine  playlist" />
         <option value="package:mine  progress" />
         <option value="package:mine  webpa" />
-        <option value="package:mine  " />
-        <option value="package:mine  system.out" />
       </list>
     </option>
   </component>
