@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine   Webpa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine  console " />
         <option value="package:mine   Webpa" />
         <option value="package:mine   " />
@@ -10,13 +11,11 @@
         <option value="package:mine  Webpa" />
         <option value="package:mine  system.out" />
         <option value="package:mine Webpag" />
-        <option value="package:mine " />
         <option value="package:mine ChannelPlayer" />
         <option value="package:mine log" />
         <option value="package:mine system" />
         <option value="level:error com.caike.ticket.intl " />
         <option value="level:error caike" />
-        <option value="package:mine" />
         <option value="level:error " />
         <option value="caike" />
       </list>
