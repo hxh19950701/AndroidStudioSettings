@@ -1,28 +1,25 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" xiaodianshi" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value=" xiaodianshi" />
-        <option value=" yst" />
-        <option value=" ClearSdcardService" />
-        <option value="package:mine ClearSdcardService" />
-        <option value="Video size:" />
-        <option value="playlist" />
-        <option value="Video size" />
-        <option value="cur pkg: " />
-        <option value="cur pkg" />
-        <option value="recsys" />
-        <option value="level:warn " />
-        <option value="system.out" />
-        <option value="webpag" />
         <option value="level:error " />
-        <option value="web" />
-        <option value="webpage" />
-        <option value="package:mine  webpage" />
-        <option value="package:mine  playlist" />
-        <option value="package:mine  progress" />
-        <option value="package:mine  webpa" />
+        <option value="package:mine system.out" />
+        <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine  console " />
+        <option value="package:mine   Webpa" />
+        <option value="package:mine   " />
+        <option value="package:mine  console" />
+        <option value="package:mine  Webpa" />
+        <option value="package:mine  system.out" />
+        <option value="package:mine Webpag" />
+        <option value="package:mine ChannelPlayer" />
+        <option value="package:mine log" />
+        <option value="package:mine system" />
+        <option value="level:error com.caike.ticket.intl " />
+        <option value="level:error caike" />
+        <option value="caike" />
       </list>
     </option>
   </component>
