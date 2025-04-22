@@ -13,6 +13,7 @@
       <mapping pattern="transmit" type="PLAIN_TEXT" />
       <mapping pattern="fragment_combo_keyxml" type="PLAIN_TEXT" />
       <mapping ext="kl" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
