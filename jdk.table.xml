@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.3" />
+      <version value="JetBrains Runtime 21.0.6" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
         <annotationsPath>
@@ -436,7 +436,7 @@
     <jdk version="2">
       <name value="jbr-17" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.3" />
+      <version value="JetBrains Runtime 21.0.6" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
         <annotationsPath>
